@@ -1,2 +1,2 @@
 release: python manage.py migrate
-web: gunicorn cardealer. --log-file -
+web: gunicorn cardealer.wsgi --log-file -

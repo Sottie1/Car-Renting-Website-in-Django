@@ -2066,9 +2066,9 @@ input[type="checkbox"]:checked + label:before {
   height: 515px;
 }
 
-.cat-1-bg {
+/* .cat-1-bg {
   background-image: url(../img/latest-offers/img-1.jpg);
-}
+} */
 
 .cat-2-bg {
   background-image: url(../img/latest-offers/img-2.jpg);
