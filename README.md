@@ -14,7 +14,7 @@
 
 ## Below are the proposed features of the Online Car Rental Management System
 
-## User'side
+## Users  Side
 
 * Car Booking
 * View Car booking history
