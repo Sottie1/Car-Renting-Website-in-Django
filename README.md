@@ -2,7 +2,7 @@
 
  **Instructions**
 
-**TITLE:**
+**TITLE** :
 **ONLINE CAR RENTAL MANAGEMENT SYSTEM**
 
 - This online car rental management system is envisioned to be developed for a small scale car rental business. 
