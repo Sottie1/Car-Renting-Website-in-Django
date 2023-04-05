@@ -23,7 +23,7 @@
 * Post Testimonials
 * Logout
 
-## Adnin Side
+## Admin Side
 
 * Admin can create vehicle brands
 * Manage Vehicle Brands
